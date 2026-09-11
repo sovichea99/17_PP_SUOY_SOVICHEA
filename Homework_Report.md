@@ -75,6 +75,19 @@ Ask a question: who is sovichea?
 I don't have enough information in the documents to answer that.
 ------------------------------
 
+Ask a question: what is jenkins?
+
+--- Retrieved Sources ---
+  Chunk 1 [008_Setting_Up_a_Secure_Wireless_Network.txt]: "isks. Configure the guest network with a different SSID and password.  **Step 6:..."
+  Chunk 2 [002_Resetting_a_Forgotten_PIN.txt]: "**Resetting a Forgotten PIN**  If you have forgotten your PIN, you can reset it ..."
+  Chunk 3 [003_Configuring_VPN_Access_for_Remote_Workers.txt]: "has changed to a company-assigned IP address. * If you continue to experience is..."
+
+--- Final Answer ---
+I don't have enough information in the provided documents to answer that.
+------------------------------
+
+Ask a question: 
+
 # Reflection
 
 Building this baseline RAG application helped me understand how the different parts of a RAG pipeline work together. The part that worked well was connecting document ingestion, chunking, embeddings, ChromaDB retrieval, and local LLM generation into one pipeline. I also learned that the LLM does not directly search the documents. Instead, the system retrieves relevant chunks first and then gives those chunks to the model as context.
