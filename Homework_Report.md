@@ -72,8 +72,7 @@ Ask a question: who is sovichea?
   Chunk 3 [001_Setting_Up_a_Mobile_Device_for_Company_Email.txt]: "evice**  1. Go to the Settings app on your mobile device. 2. Select "Mail" or "E..."
 
 --- Final Answer ---
-
-There is not enough information in the documents to answer that.
+I don't have enough information in the documents to answer that.
 ------------------------------
 
 # Reflection
