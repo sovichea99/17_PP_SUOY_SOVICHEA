@@ -83,7 +83,7 @@ Ask a question: what is jenkins?
   Chunk 3 [003_Configuring_VPN_Access_for_Remote_Workers.txt]: "has changed to a company-assigned IP address. * If you continue to experience is..."
 
 --- Final Answer ---
-I don't have enough information in the provided documents to answer that.
+I don't have enough information in the documents to answer that.
 ------------------------------
 
 Ask a question: 
